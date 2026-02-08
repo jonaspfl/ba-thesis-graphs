@@ -1,11 +1,38 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="Seite-1" id="b_nIR9pXSO3UzHUSyuOr">
-    <mxGraphModel dx="1026" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="1853" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="buffer manager" vertex="1">
-          <mxGeometry height="440" width="440" x="240" y="240" as="geometry" />
+          <mxGeometry height="590" width="440" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Page Infos" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Regions" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Device" vertex="1">
+          <mxGeometry height="150" width="120" x="500" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Bookkeeping" vertex="1">
+          <mxGeometry height="40" width="90" x="515" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="continuous DRAM mapping" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="client manager" vertex="1">
+          <mxGeometry height="440" width="250" x="-90" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Client" vertex="1">
+          <mxGeometry height="440" width="200" x="-360" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;textDirection=vertical-lr;" value="Interface" vertex="1">
+          <mxGeometry height="140" width="50" x="240" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="devices" vertex="1">
+          <mxGeometry height="60" width="220" x="260" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
