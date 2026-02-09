@@ -22,11 +22,6 @@
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="region" vertex="1">
           <mxGeometry height="220" width="370" x="670" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="pQ_gAgQLkoMaWk8GlohM-143" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;align=left;labelBackgroundColor=none;" target="pQ_gAgQLkoMaWk8GlohM-133" value="reload,&lt;div&gt;get, etc.&lt;/div&gt;">
-          <mxGeometry relative="1" x="-0.2308" y="4" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#CC6600,#CC6600);align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=#E6E6E6;fontStyle=1" value="client manager" vertex="1">
           <mxGeometry height="150" width="160" x="-160" y="340" as="geometry" />
         </mxCell>
@@ -180,6 +175,11 @@
               <mxPoint x="40" y="450" />
               <mxPoint x="40" y="675" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-151" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;labelBackgroundColor=none;align=left;" target="pQ_gAgQLkoMaWk8GlohM-133" value="reload,&lt;div&gt;get, etc.&lt;/div&gt;">
+          <mxGeometry relative="1" x="-0.2" y="6" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Signal Handler" vertex="1">
