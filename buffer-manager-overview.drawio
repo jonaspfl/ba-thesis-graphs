@@ -189,16 +189,16 @@
           <mxGeometry height="40" width="120" x="-200" y="375" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Region Attachments" vertex="1">
-          <mxGeometry height="100" width="100" x="-403" y="550" as="geometry" />
+          <mxGeometry height="100" width="100" x="-403" y="530" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Region Attachments" vertex="1">
-          <mxGeometry height="100" width="100" x="-413" y="540" as="geometry" />
+          <mxGeometry height="100" width="100" x="-413" y="520" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-117" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;dashed=1;dashPattern=8 8;startArrow=classic;startFill=1;verticalAlign=bottom;" target="pQ_gAgQLkoMaWk8GlohM-77" value="XPMEM">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Region Attachments" vertex="1">
-          <mxGeometry height="100" width="100" x="-423" y="530" as="geometry" />
+          <mxGeometry height="100" width="100" x="-423" y="510" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-114" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;align=right;verticalAlign=middle;textDirection=vertical-rl;" target="pQ_gAgQLkoMaWk8GlohM-16" value="request_device_removal(),&lt;div&gt;etc.&lt;/div&gt;">
           <mxGeometry relative="1" x="0.1139" as="geometry">
