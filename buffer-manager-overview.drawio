@@ -23,7 +23,7 @@
           <mxGeometry height="150" width="160" x="-220" y="340" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="client" vertex="1">
-          <mxGeometry height="440" width="200" x="-460" y="220" as="geometry" />
+          <mxGeometry height="290" width="200" x="-460" y="370" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-111" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;verticalAlign=top;" target="pQ_gAgQLkoMaWk8GlohM-86" value="alloc, free,&lt;div&gt;unfix, etc.&lt;/div&gt;">
           <mxGeometry relative="1" as="geometry" />
@@ -44,8 +44,24 @@
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="device" vertex="1">
           <mxGeometry height="230" width="210" x="520" y="580" as="geometry" />
         </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-124" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;dashed=1;" target="pQ_gAgQLkoMaWk8GlohM-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="870" />
+              <mxPoint x="855" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="anonymous swap file" vertex="1">
           <mxGeometry height="120" width="80" x="540" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-130" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;dashed=1;" target="pQ_gAgQLkoMaWk8GlohM-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="870" />
+              <mxPoint x="855" y="870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="persistent files" vertex="1">
           <mxGeometry height="120" width="80" x="630" y="660" as="geometry" />
@@ -91,8 +107,18 @@
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="device" vertex="1">
           <mxGeometry height="230" width="210" x="750" y="580" as="geometry" />
         </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-131" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;dashed=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="anonymous swap file" vertex="1">
           <mxGeometry height="120" width="80" x="770" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-132" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;endArrow=none;endFill=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="persistent files" vertex="1">
           <mxGeometry height="120" width="80" x="860" y="660" as="geometry" />
@@ -106,8 +132,24 @@
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="device" vertex="1">
           <mxGeometry height="230" width="210" x="980" y="580" as="geometry" />
         </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-126" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;dashed=1;" target="pQ_gAgQLkoMaWk8GlohM-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="870" />
+              <mxPoint x="855" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="anonymous swap file" vertex="1">
           <mxGeometry height="120" width="80" x="1000" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-127" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;dashed=1;" target="pQ_gAgQLkoMaWk8GlohM-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="870" />
+              <mxPoint x="855" y="870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="persistent files" vertex="1">
           <mxGeometry height="120" width="80" x="1090" y="660" as="geometry" />
@@ -214,6 +256,15 @@
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-92" parent="pQ_gAgQLkoMaWk8GlohM-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=12;fontColor=default;" value="..." vertex="1">
           <mxGeometry height="30" width="140" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-120" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;" target="pQ_gAgQLkoMaWk8GlohM-84" value="SIGUSR2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-118" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Client Program" vertex="1">
+          <mxGeometry height="80" width="80" x="-383" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Actual Hardware" vertex="1">
+          <mxGeometry height="60" width="710" x="500" y="900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
