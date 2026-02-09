@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pQ_gAgQLkoMaWk8GlohM-140" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="client" vertex="1">
-          <mxGeometry height="290" width="200" x="-503" y="390" as="geometry" />
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-142" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="client" vertex="1">
+          <mxGeometry height="130" width="117" x="-420" y="395" as="geometry" />
         </mxCell>
-        <mxCell id="pQ_gAgQLkoMaWk8GlohM-139" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="client" vertex="1">
-          <mxGeometry height="290" width="200" x="-513" y="380" as="geometry" />
+        <mxCell id="pQ_gAgQLkoMaWk8GlohM-141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="client" vertex="1">
+          <mxGeometry height="130" width="117" x="-430" y="385" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="buffer manager" vertex="1">
           <mxGeometry height="630" width="1140" x="90" y="220" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry height="150" width="160" x="-220" y="340" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" value="client" vertex="1">
-          <mxGeometry height="290" width="200" x="-523" y="370" as="geometry" />
+          <mxGeometry height="130" width="117" x="-440" y="375" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-111" edge="1" parent="1" source="pQ_gAgQLkoMaWk8GlohM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontFamily=Courier New;fontSize=12;fontColor=default;verticalAlign=top;" target="pQ_gAgQLkoMaWk8GlohM-86" value="alloc, free,&lt;div&gt;unfix, etc.&lt;/div&gt;">
           <mxGeometry relative="1" as="geometry" />
@@ -245,7 +245,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-118" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Client Program" vertex="1">
-          <mxGeometry height="80" width="80" x="-463" y="410" as="geometry" />
+          <mxGeometry height="80" width="80" x="-420" y="410" as="geometry" />
         </mxCell>
         <mxCell id="pQ_gAgQLkoMaWk8GlohM-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Courier New;fontSize=12;fontColor=default;fillColor=default;" value="Actual Hardware" vertex="1">
           <mxGeometry height="60" width="710" x="500" y="900" as="geometry" />
